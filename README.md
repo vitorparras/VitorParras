@@ -1,8 +1,5 @@
-### Hi there 👋
-
-
 <h1 align="center">Olá 👋, Eu sou Vitor Parras</h1>
-<h3 align="center">Sou Desenvolvedor Backend</h3>
+<h3 align="center">Desenvolvedor Backend</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
