@@ -1,34 +1,68 @@
-<h1 align="center">Olá 👋, Eu sou Vitor Parras</h1>
-<h3 align="center">Desenvolvedor Backend</h3>
+# Sobre Mim
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vitorparras/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitorparras/" height="30" width="40" /></a>
-</p>
+Olá! 👋 Sou um Programador FullStack com sólida experiência em desenvolvimento e implementação de soluções para a área de pagamentos, com foco em estabilidade e escalabilidade dos sistemas. Possuo habilidades tanto no Frontend quanto no Backend, trabalhando com micro-serviços e seguindo a arquitetura anti-falhas conhecida como SAGA.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+## Principais Tecnologias
 
+- **Backend:** .NET Framework, ASP.NET, .NET Core
+- **Frontend:** TypeScript, Angular
+- **Controle de Versão:** Git
+- **Banco de Dados:** SQL Server, MongoDB, Redis
+- **Frameworks:** Entity Framework (EF) Core, Angular Material
+- **Mensageria:** RabbitMQ, Event Hub
+- **Testes Unitários:** xUnit
+- **Docker e Kubernetes:** Implantação e orquestração de contêineres
+- **Programação Orientada a Eventos**
+- **Práticas DevOps**
+- **Criação de APIs REST**
+- **Monitoramento:** Application Insights
 
+## Experiência Profissional
+**Ticket**
 
+- Atuei na equipe de desenvolvimento de um sistema de gerenciamento de tickets e suporte técnico. Desenvolvi funcionalidades tanto no Frontend quanto no Backend, garantindo a eficiência na comunicação entre clientes e atendentes.
 
+**Havan**
 
+- Atuei na equipe de logística, responsável por garantir o fluxo adequado nos sistemas de gestão de mercadorias.
 
+**MAXIMATECH**
 
+- Trabalhei em um projeto de integração, atuando na construção de um core responsável pela comunicação automatizada entre sistemas e bancos da empresa e seus clientes. Nesse projeto, lidava com diversas tecnologias e estruturas, de acordo com as necessidades específicas de cada cliente.
 
+**MARTTECH**
 
+- Trabalhei como Analista e Desenvolvedor de Sistemas, onde tive a oportunidade de crescer na empresa, recebendo três promoções ao longo do tempo. Iniciei como programador Backend e evoluí para programador e analista de sistemas, chegando posteriormente a ser analista modelador de processos. Participei de diversos projetos e sistemas, alguns dos quais incluem a construção de um banco digital, sistema de captura de leads automatizado, sistema gerenciador de RH e um dos maiores gerenciadores de revenda de máquinas de cartão de crédito do Brasil, com clientes como Mercado Pago, C6, Safra, entre outros.
 
-<!--
-**vitorparras/VitorParras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estágio: Incubadora de Tecnologia**
 
-Here are some ideas to get you started:
+- Atuei auxiliando a empresa no desenvolvimento de features conforme as necessidades das empresas que estavam na incubadora. Além disso, participei ministrando aulas de informática básica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiência com C#
+
+- Construção de aplicações FullStack com enfoque em microsserviços.
+- Utilização do .NET Core para desenvolvimento Backend e criação de APIs REST.
+- Uso do Entity Framework para acesso ao banco de dados.
+
+## Experiência com TypeScript e Angular
+
+- Desenvolvimento de interfaces amigáveis e interativas utilizando Angular e Angular Material.
+- Combinação do TypeScript com .NET Core para criar soluções completas.
+- Integração de sistemas com tecnologias de mensageria como RabbitMQ e Event Hub para comunicação assíncrona.
+
+## Experiência em Desenvolvimento Cloud
+
+- Utilização de Microsoft Azure e AWS para implantação e orquestração de contêineres em Kubernetes.
+- Integração com hub de pagamentos utilizando serviços de mensageria e garantia de segurança das transações.
+
+## Testes Unitários em C#
+
+- Utilização de xUnit para garantir a qualidade do código e a efetividade dos testes.
+
+## Habilidades em Equipe, Proatividade e Comunicação
+
+- Colaboração eficaz em equipe, compartilhando conhecimento e contribuindo para o sucesso coletivo dos projetos.
+- Proatividade na busca por soluções inovadoras e na melhoria contínua dos processos.
+- Comunicação clara e eficiente com a equipe, clientes e stakeholders, valorizando a escuta ativa.
+
+Estou sempre em busca de aprimorar minhas habilidades e competências para entregar resultados excepcionais nos projetos em que estou envolvido. Seja bem-vindo ao meu perfil do GitHub! 🚀
