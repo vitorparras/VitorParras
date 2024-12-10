@@ -1,68 +1,42 @@
-# Sobre Mim
+# 👨‍💻 Sobre Mim  
 
-Olá! 👋 Sou um Programador FullStack com sólida experiência em desenvolvimento e implementação de soluções para a área de pagamentos, com foco em estabilidade e escalabilidade dos sistemas. Possuo habilidades tanto no Frontend quanto no Backend, trabalhando com micro-serviços e seguindo a arquitetura anti-falhas conhecida como SAGA.
+Olá! Sou um **Desenvolvedor Sênior** e **Arquiteto de Sistemas** com ampla experiência em criar soluções de software **seguras**, **escaláveis** e de **alto desempenho**. Tenho paixão por desenvolver sistemas que resolvem problemas complexos com tecnologia de ponta e práticas modernas de arquitetura e desenvolvimento.
 
-## Principais Tecnologias
+## 🎯 Áreas de Atuação  
+- Desenvolvimento Backend com **.NET Core** e **ASP.NET**  
+- Arquitetura baseada em **microsserviços** e padrões como **SAGA**  
+- Integração de sistemas com **RabbitMQ** e **Event Hub**  
+- Criação de **APIs RESTful** seguras e eficientes  
+- Práticas de **DevOps**, incluindo **Docker**, **Kubernetes**, e **CI/CD**  
+- Monitoramento e observabilidade com **Application Insights** e **Datadog**  
+- Desenvolvimento de soluções para **sistemas de pagamento digital**  
 
-- **Backend:** .NET Framework, ASP.NET, .NET Core
-- **Frontend:** TypeScript, Angular
-- **Controle de Versão:** Git
-- **Banco de Dados:** SQL Server, MongoDB, Redis
-- **Frameworks:** Entity Framework (EF) Core, Angular Material
-- **Mensageria:** RabbitMQ, Event Hub
-- **Testes Unitários:** xUnit
-- **Docker e Kubernetes:** Implantação e orquestração de contêineres
-- **Programação Orientada a Eventos**
-- **Práticas DevOps**
-- **Criação de APIs REST**
-- **Monitoramento:** Application Insights
+## 🚀 Destaques da Minha Experiência  
+  
+- **Desenvolvimento Seguro:**  
+  Fui responsável por projetar e implementar soluções que priorizassem a **segurança** e **conformidade com padrões do mercado**, incluindo sistemas de pagamento digital com **criptografia avançada**, transações seguras via **QR Code**, geração de boletos e integração com **plataformas de e-gifts**. Atuei na aplicação de boas práticas como controle de acesso robusto, proteção de dados sensíveis e testes de segurança.  
 
-## Experiência Profissional
-**Ticket**
+- **Observabilidade e Diagnósticos:**  
+  Implementei **Application Insights** e **Datadog** para monitoramento de sistemas críticos e transações em tempo real. Estabeleci práticas de **telemetria**, **rastreamento distribuído** e **diagnóstico de desempenho**, garantindo alta visibilidade em sistemas baseados em **microsserviços**. Com isso, foi possível identificar gargalos, monitorar métricas centralizadas e realizar resoluções proativas de problemas.  
 
-- Atuei na equipe de desenvolvimento de um sistema de gerenciamento de tickets e suporte técnico. Desenvolvi funcionalidades tanto no Frontend quanto no Backend, garantindo a eficiência na comunicação entre clientes e atendentes.
+- **Arquitetura e Práticas de Desenvolvimento Modernas:**  
+  Trabalhei na implementação de **microsserviços** seguindo o padrão arquitetural **SAGA**, assegurando consistência e confiabilidade em operações distribuídas. Adotei práticas de **DevOps** para orquestração e implantação de contêineres com **Docker** e **Kubernetes**, garantindo **entregas contínuas** e alta disponibilidade dos sistemas.  
 
-**Havan**
+## 🌱 O que Estou Estudando Atualmente  
+- **Mestrado em Ciência da Computação** (UNESP) com foco em **Segurança da Informação** e **Inteligência Artificial**.  
+- **MBA em Arquitetura de Software** (FIAP).  
+- **Curso Fullcycle**: Especialização no ciclo completo de desenvolvimento de sistemas, desde arquitetura até entrega final.  
 
-- Atuei na equipe de logística, responsável por garantir o fluxo adequado nos sistemas de gestão de mercadorias.
+## ⚡ Tecnologias que Amo Trabalhar  
+- **Backend:** .NET Core, ASP.NET, Entity Framework  
+- **Frontend:** AngularJS, TypeScript  
+- **Banco de Dados:** SQL Server, MongoDB, Redis  
+- **Mensageria:** RabbitMQ, Event Hub  
+- **DevOps:** Docker, Kubernetes, Azure DevOps  
 
-**MAXIMATECH**
+## 💡 Curiosidade  
+Adoro explorar novas tecnologias e compartilhar conhecimento. Sempre busco maneiras de melhorar processos e criar soluções inovadoras para resolver problemas desafiadores.  
 
-- Trabalhei em um projeto de integração, atuando na construção de um core responsável pela comunicação automatizada entre sistemas e bancos da empresa e seus clientes. Nesse projeto, lidava com diversas tecnologias e estruturas, de acordo com as necessidades específicas de cada cliente.
-
-**MARTTECH**
-
-- Trabalhei como Analista e Desenvolvedor de Sistemas, onde tive a oportunidade de crescer na empresa, recebendo três promoções ao longo do tempo. Iniciei como programador Backend e evoluí para programador e analista de sistemas, chegando posteriormente a ser analista modelador de processos. Participei de diversos projetos e sistemas, alguns dos quais incluem a construção de um banco digital, sistema de captura de leads automatizado, sistema gerenciador de RH e um dos maiores gerenciadores de revenda de máquinas de cartão de crédito do Brasil, com clientes como Mercado Pago, C6, Safra, entre outros.
-
-**Estágio: Incubadora de Tecnologia**
-
-- Atuei auxiliando a empresa no desenvolvimento de features conforme as necessidades das empresas que estavam na incubadora. Além disso, participei ministrando aulas de informática básica.
-
-## Experiência com C#
-
-- Construção de aplicações FullStack com enfoque em microsserviços.
-- Utilização do .NET Core para desenvolvimento Backend e criação de APIs REST.
-- Uso do Entity Framework para acesso ao banco de dados.
-
-## Experiência com TypeScript e Angular
-
-- Desenvolvimento de interfaces amigáveis e interativas utilizando Angular e Angular Material.
-- Combinação do TypeScript com .NET Core para criar soluções completas.
-- Integração de sistemas com tecnologias de mensageria como RabbitMQ e Event Hub para comunicação assíncrona.
-
-## Experiência em Desenvolvimento Cloud
-
-- Utilização de Microsoft Azure e AWS para implantação e orquestração de contêineres em Kubernetes.
-- Integração com hub de pagamentos utilizando serviços de mensageria e garantia de segurança das transações.
-
-## Testes Unitários em C#
-
-- Utilização de xUnit para garantir a qualidade do código e a efetividade dos testes.
-
-## Habilidades em Equipe, Proatividade e Comunicação
-
-- Colaboração eficaz em equipe, compartilhando conhecimento e contribuindo para o sucesso coletivo dos projetos.
-- Proatividade na busca por soluções inovadoras e na melhoria contínua dos processos.
-- Comunicação clara e eficiente com a equipe, clientes e stakeholders, valorizando a escuta ativa.
-
-Estou sempre em busca de aprimorar minhas habilidades e competências para entregar resultados excepcionais nos projetos em que estou envolvido. Seja bem-vindo ao meu perfil do GitHub! 🚀
+## 📫 Entre em Contato Comigo  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/vitorparras/) 
+- **E-mail:** contato.vitorparras@gmail.com
