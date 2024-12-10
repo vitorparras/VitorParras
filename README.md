@@ -34,9 +34,6 @@ Olá! Sou um **Desenvolvedor Sênior** e **Arquiteto de Sistemas** com ampla exp
 - **Mensageria:** RabbitMQ, Event Hub  
 - **DevOps:** Docker, Kubernetes, Azure DevOps  
 
-## 💡 Curiosidade  
-Adoro explorar novas tecnologias e compartilhar conhecimento. Sempre busco maneiras de melhorar processos e criar soluções inovadoras para resolver problemas desafiadores.  
-
 ## 📫 Entre em Contato Comigo  
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/vitorparras/) 
 - **E-mail:** contato.vitorparras@gmail.com
